@@ -1,5 +1,6 @@
 Production Performance Dashboard Analysis
-Overview
+
+
 This project focuses on developing and analyzing a production performance dashboard to track and optimize manufacturing operations across multiple regions and product types. Using Excel Pivot Tables, the dashboard consolidates key production data and delivers actionable insights for cost reduction and enhanced production efficiency.
 
 Key Features
